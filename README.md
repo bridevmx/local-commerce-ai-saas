@@ -4,6 +4,7 @@
 **System Version:** 1.0.0  
 **Status:** Engineering Ready / Development Phase  
 **Target Architecture:** Multi-Tenant Node.js + PocketBase (Zero-JSON) + OmniRoute Gateway + Baileys + Telegram Supergroup CRM  
+**Language:** English | [Versión en Español](./docs/es/README.md)  
 
 ---
 
